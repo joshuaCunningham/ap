@@ -10,7 +10,7 @@ Among this course’s objectives is to supply students with a comprehensive intr
 
 Whether students elect to take no other computer science courses in their lifetime or consider this class the first step in a longer course of study, it is our sincere hope that they feel more comfortable with—and indeed sometimes skeptical of—the technologies that surround us each day.
 
-## Expectations
+## Expectation
 
 Students are expected to submit all problems! If students would like to receive AP credit they will need to take the [AP CSP Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam) and complete the [Create and Explore Tasks](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf).
 
